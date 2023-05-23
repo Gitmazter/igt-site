@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/igt-site/static/css/main.b0f838d5.css",
-    "main.js": "/igt-site/static/js/main.45e11af7.js",
+    "main.js": "/igt-site/static/js/main.35a89159.js",
     "static/js/787.0215c1f9.chunk.js": "/igt-site/static/js/787.0215c1f9.chunk.js",
     "index.html": "/igt-site/index.html",
     "main.b0f838d5.css.map": "/igt-site/static/css/main.b0f838d5.css.map",
-    "main.45e11af7.js.map": "/igt-site/static/js/main.45e11af7.js.map",
+    "main.35a89159.js.map": "/igt-site/static/js/main.35a89159.js.map",
     "787.0215c1f9.chunk.js.map": "/igt-site/static/js/787.0215c1f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0f838d5.css",
-    "static/js/main.45e11af7.js"
+    "static/js/main.35a89159.js"
   ]
 }
